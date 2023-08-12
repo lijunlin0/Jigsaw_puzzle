@@ -18,5 +18,22 @@
     <ClCompile Include="Jigsaw_puzzle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="block.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Map.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="block.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="time.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
